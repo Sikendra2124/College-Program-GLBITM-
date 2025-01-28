@@ -12,7 +12,7 @@ int main() {
 
             printf("%d ", n - min + 1);
         }
-        printf("\n"); 
+            printf("\n");
     }
 
     return 0;
