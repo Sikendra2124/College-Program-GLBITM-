@@ -10,7 +10,7 @@ int main()
         {
             fact = fact * i;
         }
-        printf(" Even and factorial is : %d", fact);
+        Sprintf(" Even and factorial is : %d", fact);
     }
     else
     {
